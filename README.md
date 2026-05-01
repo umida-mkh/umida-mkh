@@ -1,3 +1,25 @@
+## Hi, I'm Umida 😊
+
+I’m a UI Engineer and a Master’s student in Graphic Information Technology at ASU. I enjoy building clean, intuitive interfaces and thinking about how small design decisions can make a big difference in how people experience a product. I’m especially interested in the connection between design and real user behavior, not just how things look but how they actually work in real life.
+
+Outside of work and school, I like traveling, playing tennis and guitar, painting, and spending time with my dog.
+
+---
+
+### Connect with me
+
+- Behance: https://www.behance.net/umidamukh
+
+---
+
+### GitHub Stats
+
+![Umida's GitHub stats](https://github-readme-stats.vercel.app/api?username=umida-mkh&show_icons=true&theme=tokyonight)
+
+---
+
+### Languages and Tools
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -10,3 +32,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
 </div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
