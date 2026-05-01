@@ -33,7 +33,7 @@ Outside of work and school, I like traveling, playing tennis and guitar, paintin
 
 ### Featured Project
 
-![Luna Coffee Bar](images/luna-coffee-bar.png)
+![Luna Coffee Bar](luna-coffee-bar.png)
 
 ---
 
