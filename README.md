@@ -8,13 +8,9 @@ Outside of work and school, I like traveling, playing tennis and guitar, paintin
 
 ### Connect with me
 
+- LinkedIn: https://www.linkedin.com/in/umida-mukh-33b131212
+- Codepen: https://codepen.io/umida-mkh
 - Behance: https://www.behance.net/umidamukh
-
----
-
-### GitHub Stats
-
-![Umida's GitHub stats](https://github-readme-stats.vercel.app/api?username=umida-mkh&show_icons=true&theme=tokyonight)
 
 ---
 
@@ -35,7 +31,11 @@ Outside of work and school, I like traveling, playing tennis and guitar, paintin
 
 ---
 
+### Featured Project
 
+![Luna Coffee Bar](images/luna-coffee-bar.png)
+
+---
 
 
 
