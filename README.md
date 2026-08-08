@@ -1,8 +1,8 @@
-## Hi, I'm Umida 😊
+## Hi,  I'm Umida 😊
 
-I’m a UI Engineer and a Master’s student in Graphic Information Technology at ASU. I enjoy building clean, intuitive interfaces and thinking about how small design decisions can make a big difference in how people experience a product. I’m especially interested in the connection between design and real user behavior, not just how things look but how they actually work in real life.
+I’m a UI Engineer with a Master of Science in Graphic Information Technology from ASU. I enjoy building clean, intuitive interfaces and thinking about how small design decisions can make a big difference in how people experience a product. I’m especially interested in the connection between design and real user behavior, not just how things look but how they actually work in real life.
 
-Outside of work and school, I like traveling, playing tennis and guitar, painting, and spending time with my dog.
+Outside of work, I like traveling, playing tennis and guitar, painting, and spending time with my dog.
 
 ---
 
